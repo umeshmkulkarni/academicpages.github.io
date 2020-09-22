@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Umesh M. Kulkarni"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "ANN in WSN, Counseller, Computer Networks, Object Oriented Modelling and Design, Software Copyright, Expert in OBE  "
+  location         : "Belagavi, India"
+  employer         : "KLS Gogte Institute of Technology, Belagavi,karnatak, India"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=EtETiEIAAAAJ&hl=en"
+  email            :  "umk.git@gmail.com"
+  researchgate     :   "https://www.researchgate.net/profile/Umesh_Kulkarni5"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/umeshmkulkarni"
   google_plus      :
   keybase          :
   instagram        :
